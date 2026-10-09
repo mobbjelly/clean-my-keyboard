@@ -77,5 +77,17 @@ permission:
   stops working during those prompts.
 - Unplug external keyboards before cleaning; the app blocks the built-in keyboard and every
   connected keyboard alike.
-- This app is for personal, local use and is not notarized. If Gatekeeper blocks it, right-click the
-  app and choose Open.
+- This app is not notarized by Apple. If Gatekeeper blocks it, right-click the app and choose **Open**.
+
+## Contributing
+
+Issues and pull requests are welcome. To build from source:
+
+    git clone https://github.com/mobbjelly/clean-my-keyboard.git
+    cd clean-my-keyboard
+    make setup-signing
+    make run
+
+## License
+
+Released under the [MIT License](LICENSE).
