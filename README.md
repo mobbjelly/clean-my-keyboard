@@ -1,5 +1,7 @@
 # Clean My Keyboard
 
+![Clean My Keyboard window](docs/images/screenshot.png)
+
 A native macOS utility for cleaning your keyboard. Flip one switch and every key press is
 ignored until you flip it back, so you can wipe the keyboard without typing anything.
 
