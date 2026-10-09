@@ -1,0 +1,5 @@
+build/
+Resources/AppIcon.icns
+.DS_Store
+*.iconset
+*.dmg
